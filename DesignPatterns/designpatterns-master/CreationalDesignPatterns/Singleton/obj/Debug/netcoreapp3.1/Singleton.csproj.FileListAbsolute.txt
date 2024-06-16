@@ -1,0 +1,13 @@
+/home/francocanova/Documents/Hexacta/PatronesDeDiseño/designpatterns/CreationalDesignPatterns/Singleton/bin/Debug/netcoreapp3.1/Singleton
+/home/francocanova/Documents/Hexacta/PatronesDeDiseño/designpatterns/CreationalDesignPatterns/Singleton/bin/Debug/netcoreapp3.1/Singleton.deps.json
+/home/francocanova/Documents/Hexacta/PatronesDeDiseño/designpatterns/CreationalDesignPatterns/Singleton/bin/Debug/netcoreapp3.1/Singleton.runtimeconfig.json
+/home/francocanova/Documents/Hexacta/PatronesDeDiseño/designpatterns/CreationalDesignPatterns/Singleton/bin/Debug/netcoreapp3.1/Singleton.runtimeconfig.dev.json
+/home/francocanova/Documents/Hexacta/PatronesDeDiseño/designpatterns/CreationalDesignPatterns/Singleton/bin/Debug/netcoreapp3.1/Singleton.dll
+/home/francocanova/Documents/Hexacta/PatronesDeDiseño/designpatterns/CreationalDesignPatterns/Singleton/bin/Debug/netcoreapp3.1/Singleton.pdb
+/home/francocanova/Documents/Hexacta/PatronesDeDiseño/designpatterns/CreationalDesignPatterns/Singleton/obj/Debug/netcoreapp3.1/Singleton.csprojAssemblyReference.cache
+/home/francocanova/Documents/Hexacta/PatronesDeDiseño/designpatterns/CreationalDesignPatterns/Singleton/obj/Debug/netcoreapp3.1/Singleton.AssemblyInfoInputs.cache
+/home/francocanova/Documents/Hexacta/PatronesDeDiseño/designpatterns/CreationalDesignPatterns/Singleton/obj/Debug/netcoreapp3.1/Singleton.AssemblyInfo.cs
+/home/francocanova/Documents/Hexacta/PatronesDeDiseño/designpatterns/CreationalDesignPatterns/Singleton/obj/Debug/netcoreapp3.1/Singleton.csproj.CoreCompileInputs.cache
+/home/francocanova/Documents/Hexacta/PatronesDeDiseño/designpatterns/CreationalDesignPatterns/Singleton/obj/Debug/netcoreapp3.1/Singleton.dll
+/home/francocanova/Documents/Hexacta/PatronesDeDiseño/designpatterns/CreationalDesignPatterns/Singleton/obj/Debug/netcoreapp3.1/Singleton.pdb
+/home/francocanova/Documents/Hexacta/PatronesDeDiseño/designpatterns/CreationalDesignPatterns/Singleton/obj/Debug/netcoreapp3.1/Singleton.genruntimeconfig.cache

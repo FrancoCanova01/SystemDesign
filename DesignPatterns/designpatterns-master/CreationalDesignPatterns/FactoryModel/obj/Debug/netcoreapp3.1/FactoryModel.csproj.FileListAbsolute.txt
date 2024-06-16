@@ -1,0 +1,13 @@
+/home/francocanova/Documents/Hexacta/PatronesDeDiseño/designpatterns/CreationalDesignPatterns/FactoryModel/bin/Debug/netcoreapp3.1/FactoryModel
+/home/francocanova/Documents/Hexacta/PatronesDeDiseño/designpatterns/CreationalDesignPatterns/FactoryModel/bin/Debug/netcoreapp3.1/FactoryModel.deps.json
+/home/francocanova/Documents/Hexacta/PatronesDeDiseño/designpatterns/CreationalDesignPatterns/FactoryModel/bin/Debug/netcoreapp3.1/FactoryModel.runtimeconfig.json
+/home/francocanova/Documents/Hexacta/PatronesDeDiseño/designpatterns/CreationalDesignPatterns/FactoryModel/bin/Debug/netcoreapp3.1/FactoryModel.runtimeconfig.dev.json
+/home/francocanova/Documents/Hexacta/PatronesDeDiseño/designpatterns/CreationalDesignPatterns/FactoryModel/bin/Debug/netcoreapp3.1/FactoryModel.dll
+/home/francocanova/Documents/Hexacta/PatronesDeDiseño/designpatterns/CreationalDesignPatterns/FactoryModel/bin/Debug/netcoreapp3.1/FactoryModel.pdb
+/home/francocanova/Documents/Hexacta/PatronesDeDiseño/designpatterns/CreationalDesignPatterns/FactoryModel/obj/Debug/netcoreapp3.1/FactoryModel.csprojAssemblyReference.cache
+/home/francocanova/Documents/Hexacta/PatronesDeDiseño/designpatterns/CreationalDesignPatterns/FactoryModel/obj/Debug/netcoreapp3.1/FactoryModel.AssemblyInfoInputs.cache
+/home/francocanova/Documents/Hexacta/PatronesDeDiseño/designpatterns/CreationalDesignPatterns/FactoryModel/obj/Debug/netcoreapp3.1/FactoryModel.AssemblyInfo.cs
+/home/francocanova/Documents/Hexacta/PatronesDeDiseño/designpatterns/CreationalDesignPatterns/FactoryModel/obj/Debug/netcoreapp3.1/FactoryModel.csproj.CoreCompileInputs.cache
+/home/francocanova/Documents/Hexacta/PatronesDeDiseño/designpatterns/CreationalDesignPatterns/FactoryModel/obj/Debug/netcoreapp3.1/FactoryModel.dll
+/home/francocanova/Documents/Hexacta/PatronesDeDiseño/designpatterns/CreationalDesignPatterns/FactoryModel/obj/Debug/netcoreapp3.1/FactoryModel.pdb
+/home/francocanova/Documents/Hexacta/PatronesDeDiseño/designpatterns/CreationalDesignPatterns/FactoryModel/obj/Debug/netcoreapp3.1/FactoryModel.genruntimeconfig.cache
